@@ -1,4 +1,4 @@
-# flutter_auth_profile
+# MultifunXion App Flutter Projext
 
 A new Flutter project.
 
